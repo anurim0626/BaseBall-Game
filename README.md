@@ -14,5 +14,16 @@
 
 -"Strike" 가 3개가 되면 게임을 종료한다.
 
- 
+ -코드설명-
 
+![image](https://user-images.githubusercontent.com/102803326/173292742-d5b7fe65-9f6f-4e22-8fc0-60466870a74f.png)
+
+-usr, com 두 개의 배열이 각각 완전히 일치할  경우에만 strike 처리
+
+![image](https://user-images.githubusercontent.com/102803326/173292897-00d39d63-0d3e-4ed4-a882-c2bb3d350382.png)
+
+-usr, com 두 개의 배열의 데이터 위치가 다른경우에만 ball 처리
+
+![image](https://user-images.githubusercontent.com/102803326/173293209-2a0e386e-80d4-4126-8ff9-b01d6ae5061a.png)
+
+-시도 횟수에 따라 결과가 달라짐
