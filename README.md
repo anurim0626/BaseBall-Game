@@ -27,3 +27,13 @@
 ![image](https://user-images.githubusercontent.com/102803326/173293209-2a0e386e-80d4-4126-8ff9-b01d6ae5061a.png)
 
 -시도 횟수에 따라 결과가 달라짐
+
+-전체코드-
+
+![image](https://user-images.githubusercontent.com/102803326/173293403-fa29a145-6fc7-4078-ae53-07c7877f4963.png)
+
+![image](https://user-images.githubusercontent.com/102803326/173293448-84a6bb25-ae2b-4227-8d09-d43aebef4caa.png)
+
+![image](https://user-images.githubusercontent.com/102803326/173293470-ce1e69c4-ac2f-41b6-a564-3f121dbf38e6.png)
+
+![image](https://user-images.githubusercontent.com/102803326/173293500-bff94d01-75f5-46bc-8f5b-1d2687d8d761.png)
