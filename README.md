@@ -18,22 +18,19 @@
 
 ![image](https://user-images.githubusercontent.com/102803326/173292742-d5b7fe65-9f6f-4e22-8fc0-60466870a74f.png)
 
--usr, com 두 개의 배열이 각각 완전히 일치할  경우에만 strike 처리
+-🌼usr, com 두 개의 배열이 각각 완전히 일치할  경우에만 strike 처리
 
 ![image](https://user-images.githubusercontent.com/102803326/173292897-00d39d63-0d3e-4ed4-a882-c2bb3d350382.png)
 
--usr, com 두 개의 배열의 데이터 위치가 다른경우에만 ball 처리
+-🌼usr, com 두 개의 배열의 데이터 위치가 다른경우에만 ball 처리
+
+![image](https://user-images.githubusercontent.com/102803326/173294170-9320b06a-6c02-4a51-96e3-cee8ca4d58b9.png)
+
+-🌼게임실행 주어진 3개인 경우, 각각 정수형으로 형변환을 통해 x, y, a 에 저장하고 난수발생시키는 경우에는 playGame()는 해당없음
 
 ![image](https://user-images.githubusercontent.com/102803326/173293209-2a0e386e-80d4-4126-8ff9-b01d6ae5061a.png)
 
--시도 횟수에 따라 결과가 달라짐
+-🌼시도 횟수에 따라 결과가 달라짐
 
--🌻전체코드🌻-
 
-![image](https://user-images.githubusercontent.com/102803326/173293403-fa29a145-6fc7-4078-ae53-07c7877f4963.png)
 
-![image](https://user-images.githubusercontent.com/102803326/173293448-84a6bb25-ae2b-4227-8d09-d43aebef4caa.png)
-
-![image](https://user-images.githubusercontent.com/102803326/173293470-ce1e69c4-ac2f-41b6-a564-3f121dbf38e6.png)
-
-![image](https://user-images.githubusercontent.com/102803326/173293500-bff94d01-75f5-46bc-8f5b-1d2687d8d761.png)
